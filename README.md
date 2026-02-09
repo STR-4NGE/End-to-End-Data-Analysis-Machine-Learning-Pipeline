@@ -294,9 +294,9 @@ python -i customer_churn_analysis.py
 
 ## 📧 Contact
 
-**Portfolio:** [Your GitHub Profile]  
-**LinkedIn:** [Your LinkedIn]  
-**Email:** [Your Email]
+**Portfolio:** [https://github.com/STR-4NGE]  
+**LinkedIn:** [www.linkedin.com/in/garip-emre-küççük-98090124a]  
+**Email:** [emrekuk87@gmail.com]
 
 ---
 
