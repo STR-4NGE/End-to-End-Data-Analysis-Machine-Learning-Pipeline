@@ -315,3 +315,6 @@ This project is created for educational and portfolio purposes.
 ---
 
 **⭐ If you found this project helpful, please star this repository!**
+## Results Snapshot
+Key visual outputs and model evaluation results are provided in the `/visuals` directory.
+The analysis is fully reproducible by running the main Python script.
